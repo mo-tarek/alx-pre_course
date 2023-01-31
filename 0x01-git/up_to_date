@@ -1,1 +1,1 @@
-commands: touch <filename>
+comands: ["git pull"]
