@@ -114,3 +114,32 @@ After you complete the Foundations program, a whole new series of paths open up 
 We have two Specializations: 
    - Back-end 
    - Front-end 
+
+
+## All Sechduled Lives
+
+- [Getting started with the intranet](https://youtu.be/0QyXL9sFoHM) 
+- [How to Approach Projects]()
+- [Shell Navigation]()
+- [Live Coding Session with Julien]()
+- [Karibu ceremony]()
+- [Ask Me Anything]()
+- [The Wining mindset]()
+- [Live Learning session: Emacs & Vi Text Editors]()
+- [Live Learning session: Git & Version Control]()
+- [Ask me anything]()
+- [The Wining mindset]()
+- [Live Learning session: Emacs & Vi Text Editors]()
+- [Live Learning session: Git & Version Control]()
+- [C12 - Walkin session with Fairdus & Charles]()
+- [Walk-in session]()
+- [Live learning session: The learning framework]()
+- [Live session with Julien: GPT-3]()
+- [Live learning session: shell basics]()
+- [Walk-in session with Fairdus & Charles]()
+- [Live learning session: Shell, I/O Redirections and filters]()
+- [Expert session - Launching your tech career, Insights from a full-stack developer]()
+- [Live learning session: Introduction ]()
+- [ALX SE Town Hall]()
+- [Live Discussion: Staying motivated In the program]()
+- [This is a test 11]()
