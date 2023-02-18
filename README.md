@@ -112,5 +112,5 @@
 After you complete the Foundations program, a whole new series of paths open up for you. Known as “Specializations”, you can pick where you will take your focus for the fourth sprint of the curriculum. 
 
 We have two Specializations: 
-    - Back-end 
-    - Front-end 
+   - Back-end 
+   - Front-end 
